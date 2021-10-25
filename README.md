@@ -1,2 +1,2 @@
-# iOSCodeCandy
+# iOSCodingCandy
  Record some programming skills.
